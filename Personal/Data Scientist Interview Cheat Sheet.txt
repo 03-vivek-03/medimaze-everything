@@ -1,0 +1,58 @@
+# Data Scientist Interview Cheat Sheet
+
+## Key Projects
+- **MRI Spine Segmentation (Medimaze)**:
+  - Role: Led AI pipeline for vertebrae segmentation from MRI scans.
+  - Tech: Deep learning, Python, TensorFlow.
+  - Impact: 95% accuracy, reduced diagnosis time by 80%.
+- **Tender Summarisation (Medimaze)**:
+  - Role: Built LLM with RAG for summarizing 400+ page documents.
+  - Tech: NLP, vector databases, Streamlit.
+  - Impact: 90% reduction in manual effort.
+- **Chest X-Ray Pathology Detection (Medimaze)**:
+  - Role: Developed YOLO and CNN models for abnormality detection.
+  - Tech: Computer vision, OpenCV, TensorFlow.
+  - Impact: 97% accuracy, deployed on Linux server.
+- **Time Series Forecasting (Cognizant)**:
+  - Role: Built LSTM model for service demand prediction.
+  - Tech: Python, Pandas, SHAP.
+  - Impact: 90% accuracy, optimized workforce planning.
+
+## Technical Skills
+- **ML Algorithms**: Regression (Linear, Decision Tree), Classification (SVM, CNN), Clustering (K-Means, DBSCAN), Neural Networks (LSTM, YOLO), NLP (RAG, sentiment analysis).
+- **Data Lifecycle**: EDA (Pandas, Matplotlib), cleansing (normalization, interpolation), feature selection (correlation, SHAP), model tuning (grid search), validation (cross-validation), deployment (Docker, Linux).
+- **Tools**: Python, TensorFlow, Keras, Scikit-learn, OpenCV, Power BI, Tableau, SQL.
+- **Visualization**: Bar charts, heatmaps, time series plots in Power BI/Matplotlib.
+
+## STAR Stories
+- **Problem-Solving (Chest X-Ray)**:
+  - Situation: Messy dataset with missing annotations.
+  - Task: Prepare data for YOLO model.
+  - Action: Imputed labels, applied augmentation, normalized data.
+  - Result: Improved accuracy from 85% to 97%.
+- **Collaboration (MRI Segmentation)**:
+  - Situation: Cross-functional team for AI pipeline.
+  - Task: Align radiologists and engineers.
+  - Action: Weekly syncs, Jira, visualized EDA.
+  - Result: 95% accurate model, 80% faster diagnosis.
+- **Leadership (Cognizant Churn)**:
+  - Situation: Predict customer churn for British Gas.
+  - Task: Build ML model and present insights.
+  - Action: Developed classification model, used Power BI dashboards.
+  - Result: Improved retention strategy, 20% faster decisions.
+
+## Key Algorithms for JD
+- **Time Series**: LSTM (temporal dependencies), ARIMA (trend modeling).
+- **Regression**: Decision Tree, SVM (predict continuous outcomes).
+- **Classification**: CNN, YOLO (categorical predictions).
+- **Clustering**: K-Means, DBSCAN (segmentation).
+- **Visualization**: Matplotlib (EDA), Power BI (dashboards).
+
+## Quick Tips
+- **Technical**: Explain models simply, mention metrics (e.g., 97% accuracy).
+- **Behavioral**: Use STAR, emphasize impact (e.g., reduced time by 80%).
+- **Questions to Ask**:
+  - What types of OT data will I work with?
+  - Are there specific cloud platforms (e.g., AWS) used for deployment?
+  - How does the team collaborate on ML projects?
+- **Revise**: Project impacts, algorithm applications, STAR stories.

@@ -1,0 +1,88 @@
+
+Vivek Choudhari
+
+choudhari.vivek98@gmail.com | +91 9890293565 | LinkedIn | My Portfolio | GitHub Repository
+
+Innovative Data Scientist with 3+ years of experience specializing in Machine Learning solutions for the healthcare industry. Leading a talented team of 2 Junior Data Scientists and 1 Junior Python Developer, I utilize my Python expertise to enhance medical imaging analysis. My strategic initiatives have resulted in a 70% increase in operational efficiency and an 80% reduction in data processing time. Committed to advancing healthcare technology, I focus on developing robust algorithms for object detection while ensuring scalable, effective solutions.
+
+AREA OF EXPERTISE
+Programming: Python, SQL
+Machine Learning & Deep Learning: Natural Language Processing (NLP), Convolutional Neural Network (CNN), Regression, Classification, YOLO Detection, Gen AI Concepts, OpenAI API Concepts
+Packages: NumPy, Pandas, Scikit, TensorFlow, Keras, Matplotlib, OpenCV
+Data Visualization: Power BI, 
+Competencies: Team work & Collaboration, Decision Making, Statistical Analysis, Great Communication, Project Management, Continuous Learning
+
+WORK EXPERIENCE
+1. Medimaze Solutions Pvt. Ltd. | Data Scientist
+May 2023 – Present | PCMC, Maharashtra
+– Led AI-driven solutions to improve diagnostic accuracy and operational efficiency.
+– Worked with cross-functional teams to integrate AI into existing medical workflows. Implemented cost-effective, scalable solutions, saving time and resources.
+– Managed AI project lifecycles, ensuring alignment with strategic goals and compliance.
+– Identified and resolved workflow challenges, driving process automation improvements.
+– Maintained high standards of quality and compliance in AI models.
+
+Projects:
++ AI-ML Deep Learning Models in Chest X-Ray
+– Developed deep learning models for chest X-ray pathology detection, including Cardiomegaly, Pleural Effusion, Pneumothorax, Tuberculosis, and more, with validation accuracies above 83%.
+– Designed custom algorithms for clinical measurements like Cardiac Size and Costophrenic Angle to support diagnosis.
+– Curated large datasets and implemented data pre-processing techniques for optimizing model performance and accuracy.
++ YOLO Pathology Detection AI in Chest X-Ray
+– Created and deployed YOLO-based models for detecting chest abnormalities such as nodules and rib fractures, significantly improving detection rates and workflow efficiency.
+– Led the integration of YOLO models into the clinical diagnostic pipeline, ensuring real-time detection and precise abnormality identification. 
++ Simplified Report Generative AI (Mobile Healthcare App)
+– Developed an AI chat bot to simplify medical reports for patients, explaining medical terms and findings. Initially integrated with ChatGPT API, now using OLLAMA Gemma for enhanced functionality.
++ Generative AI for Machine Protocol (CT/MRI)
+– Built an AI system that guides machine technicians on correct protocols for CT & MRI scans, ensuring accurate scan and reducing human error.
++ Gender-Specific Reporting AI
+– Introduced an AI to flag and prevent gender-specific reporting errors, ensuring no male-specific terms appear in female reports. Implemented using OLLAMA models.
++ Generative AI for Report Labels/Tags
+– Automated the tagging of patient studies (Normal/Abnormal) using AI to streamline workflow and data organization.
+
+
+2. Cognizant Technology Solutions | Programmer Analyst
+Jul 2021 – Apr 2023 | Pune, Maharashtra
+Project: British Gas, UK
+– Conducted in-depth analysis of customer attrition for British Gas, UK, identifying key factors contributing to churn 
+– Developed machine learning models to predict customer churn and provided actionable insights to mitigate attrition rates.
+– Applied data science techniques to analyze text data, extracting insights on service challenges across different cities, areas, and demographics.
+– Collaborated with cross-functional teams to implement data-driven solutions and optimize customer retention strategies.
+
+3. Cognizant Technology Solutions | Internship | PA Trainee
+Feb 2021 – June 2021 | Pune, Maharashtra
+– Trained in C, Python, SQL, and JavaScript, gaining familiarity with Agile methodology and Automation Testing.
+– Executed projects like "Book Tour from Redbus.com" for Automation Testing and contributed to Data Science projects, including "Mobile Price Prediction" and "Sentiment Analysis."
+– Actively pursued further learning through Udemy certifications to enhance skills.
+
+EDUCATION
+B.Tech. Engineering: Vishwakarma Institute of Information Technology, Kondhwa, Pune-46 | 2017 – 2021
+
+TRAININGS
+Data Science & Data Analytics, ExcelR Academy, Baner, MH | Jan 2023-June 2023
+
+PUBLICATIONS
+Mathematical Modelling of an Automatic Bag Mask Valve Emergency Ventilator, International Research Journal of Engineering And Technology (IRJET) | Sept 2020
+
+CERTIFICATES
+Jan 2024 GL Academy AI for Healthcare
+May 2023 IBM Machine Learning with Python
+Apr 2023 ExcelR Solutions Data Science Certification
+Apr 2023 Udemy Artificial Intelligence A-ZTM 2023
+Apr 2023 Udemy The Data Science Course 2023: Complete Data Science Boot camp
+Jun 2022 Microsoft Certifications AI-900: Azure AI Fundamentals by Microsoft Certifications
+May 2022 Udemy Deep Learning A-ZTM: Hands-On ANN
+Apr 2022 Udemy Machine Learning A-Z: Hands-On Python & R
+Apr 2022 Udemy Feature Engineering for Machine Learning
+
+PROJECT CASE STUDIES
+Sentiment Analysis (Regression)
+– Employed NLP techniques like tokenization and stemming to preprocess customer review data.
+– Utilized feature engineering to extract key features, enabling accurate sentiment classification.
+– Implemented classification algorithms (Logistic Regression, Naive Bayes, SVM) to categorize sentiments as positive, negative, or neutral.
+Lung & Colon Cancer Image Classification (Classification using CNN)
+– Developed a model using a dataset of 25,000 histopathological images across five classes.
+– Preprocessed images through resizing, normalization, and augmentation techniques.
+– Leveraged CNN architectures to classify images into various types of cancerous and benign tissues.
+Disease Prediction (Regression)
+– Created a predictive model for assessing apoplexy risk using 5,000 medical study records.
+– Analyzed patient demographics, medical history, and lifestyle factors for accurate predictions.
+– Applied data preprocessing techniques to ensure the quality and reliability of the model.
